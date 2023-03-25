@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/lucas/mytemp/CS61A_Berkley_Solutions/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220424.0/
+CS61A_Berkley_Solutions	README.md	/^# CS61A_Berkley_Solutions$/;"	c
+test	lab00/tests/python-basics.py	/^test = {$/;"	v
+twenty_twenty	lab00-twenty_twenty.py	/^def twenty_twenty():$/;"	f
+twenty_twenty	lab00/lab00.py	/^def twenty_twenty():$/;"	f
